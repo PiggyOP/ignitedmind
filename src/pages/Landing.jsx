@@ -76,7 +76,7 @@ const Landing = () => {
             Since 2008, the Ignited Minds Award has empowered students across India to showcase their
             ingenuity. Each year, hundreds of young innovators present interdisciplinary projects—from
             robotics and sustainable solutions to artistic installations—demonstrating creativity,
-            critical thinking, and social impact.
+            critical thinking, and social impact. It is supported by SRISTI and as well as GIAN.
           </p>
         </motion.section>
 
